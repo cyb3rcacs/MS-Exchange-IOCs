@@ -8,4 +8,5 @@ Security Agency (MG) have observed active exploitation of vulnerabilities in Mic
 It is reccomended that this agency checks for active exploitation using the following IOC(s)
 
 IP Address
+
 185.192.69.97
